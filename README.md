@@ -18,3 +18,7 @@ for i in range(36):
     square(90)
 
 turtle.done()
+
+Output:
+
+<img width="409" height="413" alt="Screenshot 2025-12-19 133631" src="https://github.com/user-attachments/assets/dccb1361-9f50-4361-91bc-21a9ff9203b2" />
